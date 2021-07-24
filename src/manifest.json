@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Firefox Sidebar HTML Capture",
+  "name": "HTML Capture",
   "version": "1.0",
 
   "description": "Realtime HTML Capture",
@@ -11,7 +11,7 @@
   },
 
   "sidebar_action": {
-    "default_title": "Firefox Sidebar HTML Capture",
+    "default_title": "HTML Capture",
     "default_panel": "sidebar.html",
     "default_icon": {
       "16": "16x16.png",
@@ -29,7 +29,7 @@
 
   "applications": {
     "gecko": {
-      "id": "firefox-sidebar-html-capture@elder-alliance.org"
+      "id": "html-capture@elder-alliance.org"
     }
   }
 }

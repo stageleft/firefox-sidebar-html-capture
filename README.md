@@ -1,4 +1,4 @@
-# firefox-sidebar-html-capture
+# html-capture
 
 This is a tool that captures displayed web pages into text files.
 You can use it to debug dynamically changing web pages.
@@ -55,13 +55,13 @@ This manual can supprot English and Japanese.
 
 ## Limitation （制限）
 
-You can use only 1 tab when using firefox-sidebar-html-capture.
+You can use only 1 tab when using html-capture.
 
 本ツール利用時は、タブ１個のみで作業してください。
 
 ## Report issue （問題を見つけた場合）
 
-1. create Issue ticket in [this repository](https://github.com/stageleft/firefox-sidebar-html-capture).
+1. create Issue ticket in [this repository](https://github.com/stageleft/html-capture).
 2. mention to me in Twitter: [@elderalliance](https://twitter.com/elderalliance).
 
 GitHubでチケット切ってください。その後、私のTwitterアカウントまでお知らせください。
