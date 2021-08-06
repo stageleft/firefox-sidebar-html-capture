@@ -43,7 +43,7 @@ function recvLog_proc(request) {
       var a = document.createElement('a');
       a.href=download_data_url;
       a.target="_blank";
-      a.download = download_data_url + '.txt';
+      a.download = datestring.replace(/[\:\.]/g, '_') + '.html';
       a.textContent = datestring;
     li.insertAdjacentElement('afterbegin', a);
   print_list.insertAdjacentElement('afterbegin', li);
